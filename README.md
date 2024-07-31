@@ -4,9 +4,9 @@ Plugin or Script with differents features for the creation of calendars within O
 
 ## About the Plugin
 
+This plugin automatise the recording of events into a calendar in order of keeping a record of things done.
+
 Docs plugin Obsidina [here](https://docs.obsidian.md/Home)
-
-
 
 ## Installation
 

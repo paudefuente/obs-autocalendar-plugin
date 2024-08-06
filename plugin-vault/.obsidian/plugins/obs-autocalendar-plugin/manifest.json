@@ -1,0 +1,10 @@
+{
+	"id": "autocalendar-plugin",
+	"name": "Autocalendar Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Script that automatise the recoding of events into a calendar",
+	"author": "paudefuente",
+	"authorUrl": "https://github.com/paudefuente",
+	"isDesktopOnly": true
+}
